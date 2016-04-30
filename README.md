@@ -1,5 +1,5 @@
 # C++14 Bootstrap Project
-[![Build Status](https://travis-ci.org/boxdot/cpp-bootsrap.svg?branch=master)](https://travis-ci.org/boxdot/cpp-bootsrap) [![Coverage Status](https://coveralls.io/repos/github/boxdot/cpp-bootsrap/badge.svg?branch=master)](https://coveralls.io/github/boxdot/cpp-bootsrap?branch=master)
+[![Build Status](https://travis-ci.org/boxdot/cpp-bootstrap.svg?branch=master)](https://travis-ci.org/boxdot/cpp-bootsrap) [![Coverage Status](https://coveralls.io/repos/github/boxdot/cpp-bootsrap/badge.svg?branch=master)](https://coveralls.io/github/boxdot/cpp-bootsrap?branch=master)
 
 using
 
