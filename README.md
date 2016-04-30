@@ -5,3 +5,5 @@ using
 
 * [CMake](https://cmake.org) as build system
 * [Catch](https://github.com/philsquared/Catch.git) as testing framework
+* [Travis](https://travis-ci.org) for automatic builds
+* [Coveralls](https://coveralls.io) for statistics about code coverage
