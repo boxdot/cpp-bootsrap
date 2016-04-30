@@ -1,0 +1,21 @@
+language: cpp
+compiler: clang++-3.6
+addons:
+  apt:
+    sources:
+      - llvm-toolchain-precise-3.6
+      - ubuntu-toolchain-r-test
+      - george-edison55-precise-backports
+    packages:
+      - clang-3.6
+      - cmake
+      - cmake-data
+install:
+script:
+  - mkdir -p build && cd build
+  - cmake .. -DCMAKE_CXX_COMPILER=clang++-3.6
+  - make
+  - make test
+cache:
+  directories:
+    - build/catch
